@@ -7,14 +7,14 @@ In case you'd like to contribute, be sure to give the information below a read, 
 
 ## Available in-game languages
 Below are the languages that have significantly enough translated strings to be in-game, but remember that they are still worthy maintaining due to new strings being added after a large SMC update!  
-:flag_us: English (North America)  
-:flag_de: German  
-:flag_nl: Dutch  
-:flag_pt: Portuguese  
+• _English (North America)_  
+• _German / Deutsch_  
+• _Dutch / Nederlands_  
+• _Portuguese / Português_  
 
 ## Currently work-in-progress languages
 These are the languages that have WIP translations, but are not yet ready to be in the game.  
-:flag_uk: English (Brittain)
+• _English (Brittain)_
 
 ## General Rule of Thumb
 • Do not use Google Translate to localize the text/strings. Google Translate is not always accurate and does not know context.  
