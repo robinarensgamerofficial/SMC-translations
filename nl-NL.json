@@ -196,7 +196,7 @@
                 "maps": "Mappen",
                 "settings": "Instellingen",
                 "playtest": "Level testen",
-                "save-quit": "Opslaan &\nAfsluiten"
+                "save-quit": "Opslaan & Afsluiten"
             },
             "sidebar": {
                 "mainBlocks": "Algemene blokken",
@@ -208,7 +208,7 @@
                 "cryo": "Cryo",
                 "spikes": "Stekels & dodelijke tegels",
                 "climbables": "Beklimbare objecten",
-                "doors": "Decorative deuren",
+                "doors": "Decoratieve deuren",
                 "mainObjects": "Algemene objecten",
                 "powerUps": "Power-ups & bestuurbare objecten",
                 "platforms": "Platformen",
@@ -221,7 +221,7 @@
                 "castleEnemies": "Kasteel vijanden",
                 "ghostEnemies": "Spookachtige vijanden",
                 "artillery": "Artillerie",
-                "plantEnemies": "Plantaardige vijanden",
+                "plantEnemies": "Plant vijanden",
                 "dinoEnemies": "Dinosaurus vijanden",
                 "bosses": "Eindbazen & gerelateede vijanden",
                 "general-level-settings": "Algemene level instellingen",
@@ -232,7 +232,7 @@
                 "level-desc": "Bewerk level beschrijving",
                 "level-stats": "Level informatie & statistieken",
                 "toolbar-settings": "Toolbar instellingen",
-                "backup-settings": "Autosave & Backup"
+                "backup-settings": "Automatisch opslaan & Backups"
             },
             "tileset-menu": {
                 "footer": "Klik op een tegelicoon om de hele tegelset te bekijken.\nJe kan ze ook slepen naar de favorieten, zodat je er altijd makkelijk bij kunt.",
@@ -288,7 +288,7 @@
                 "editor-music": "[offsety=-8][scale=0.85]\nEditor muziek[/scale][/offsety]",
                 "trail-tool-frame-count": "[offsety=-8][scale=0.66]Spoor gereedschap\nframe aantal[/scale][/offsety]",
                 "autosave-header": "Autosave opties",
-                "autosave-interval": "Autosaves gebeuren elke 5 min.",
+                "autosave-interval": "Automatchisch opslaan gebeurt elke 5 min.",
                 "restore-point-header": "Herstel Punt opties",
                 "restore-point-info": "[scale=0.5][color=#CCCCCC]Herstel Punten zijn automatische backups van je level, gemaakt om de tijd bij het opslaan.\nJe kan hier teruggaan naar een vorige versie van je level.[/background][/scale]",
                 "restore-point-interval": "[scale=0.75]Herstel Punt creatie interval[/scale]"
